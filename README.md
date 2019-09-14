@@ -1,9 +1,9 @@
 # Barcode
 This project finds barcode in the image. 
 
-Tu run the project firs install requirnement.txt by typing in linux terminal.
+Tu run the project firs install requirements.txt by typing in linux terminal.
 
-pip install -r requirnement.txt
+pip install -r requirements.txt
 
 To test for the image run this command.
 
